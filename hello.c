@@ -4,7 +4,8 @@
 int main() {
 
     printf("Hello, World!\n");
-printf("Kacper Polus")
+printf("Kacper Polus\n");
+printf("Amadeusz Makowski\n");
     return(0);
 
 }
